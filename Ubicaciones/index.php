@@ -177,6 +177,9 @@ if (!isset($_SESSION['user_info'])) {
           <div class="selectable-item">
             Factura 1 Item 5
           </div>
+          <div class="selectable-item">
+            Factura 1 Item 6
+          </div>
         </div>
       </div>
     </div>

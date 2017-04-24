@@ -162,27 +162,7 @@ if (!isset($_SESSION['user_info'])) {
           <span class="float-right" role="button" btn-type="collapse" data-target="#detallesFactura"><i class="fa fa-chevron-up"></i></span>
         </div>
         <div class="card-block p-0" id="detallesFactura">
-          <div class="selectable-item">
-            Factura 1 Item 1
-          </div>
-          <div class="selectable-item">
-            Factura 1 Item 2
-          </div>
-          <div class="selectable-item">
-            Factura 1 Item 3
-          </div>
-          <div class="selectable-item">
-            Factura 1 Item 4
-          </div>
-<<<<<<< HEAD
-          <div class="selectable-item">
-            Factura 1 Item 5
-          </div>
-          <div class="selectable-item">
-            Factura 1 Item 6
-          </div>
-=======
->>>>>>> parent of cecca9a... inv 5
+
         </div>
       </div>
     </div>

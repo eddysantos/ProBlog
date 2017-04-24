@@ -146,7 +146,7 @@ if (!isset($_SESSION['user_info'])) {
             </div>
           </div>
           <div class="card-block p-0" id="refDetalleFacturas" style="display: none">
-            
+
           </div>
         </div>
       </div>
@@ -157,7 +157,9 @@ if (!isset($_SESSION['user_info'])) {
           <span class="float-right" role="button" btn-type="collapse" data-target="#detallesFactura"><i class="fa fa-chevron-up"></i></span>
         </div>
         <div class="card-block p-0" id="detallesFactura">
-
+          <div class="">
+            Factura 1 Item 1
+          </div>
         </div>
       </div>
     </div>

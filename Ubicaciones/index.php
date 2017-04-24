@@ -146,12 +146,7 @@ if (!isset($_SESSION['user_info'])) {
             </div>
           </div>
           <div class="card-block p-0" id="refDetalleFacturas" style="display: none">
-            <div class="selectable-item">
-              Factura 1
-            </div>
-            <div class="selectable-item">
-              Factura 2
-            </div>
+            
           </div>
         </div>
       </div>

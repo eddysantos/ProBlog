@@ -174,15 +174,18 @@ if (!isset($_SESSION['user_info'])) {
           <div class="selectable-item">
             Factura 1 Item 4
           </div>
-<<<<<<< HEAD
           <div class="selectable-item">
             Factura 1 Item 5
           </div>
           <div class="selectable-item">
             Factura 1 Item 6
           </div>
-=======
->>>>>>> parent of cecca9a... inv 5
+          <div class="selectable-item">
+            Factura 1 Item 7
+          </div>
+          <div class="selectable-item">
+            Factura 1 Item 8
+          </div>
         </div>
       </div>
     </div>
